@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
+data/
+soc-local-config.json
+soc-custom-glossary.json
+public/assets/aistudio/

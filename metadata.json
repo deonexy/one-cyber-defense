@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Defense & Command Center",
+  "description": "Enterprise 24/7 SOC monitoring, threat intelligence, Action Advisor, and Wazuh-complementary security operations platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
